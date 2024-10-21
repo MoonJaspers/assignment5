@@ -4,9 +4,6 @@
 + this
 + is
 + a list
-+ blah
-+ blah
-+ whatever
 
 ![this is an image](https://cdn-icons-png.flaticon.com/512/4866/4866637.png)
 
